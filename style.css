@@ -1,0 +1,48 @@
+#message {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1;
+}
+
+#loader {
+  margin: 1em;
+  color: #e5e5e5;
+  display: none;
+}
+
+#loader img{
+  width:150px;
+}
+
+#About {
+  margin-top: 20px;
+
+}
+
+.align {
+  margin-top: 20px;
+}
+
+#Share {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.inputForm{
+  margin-top: 2em;
+  margin-bottom: 0.5em;
+}
+#regText {
+  margin-top: 10px;
+}
+.btn{
+  background-color: black;
+  color:white;
+  margin-top: 1em;
+}
+
+#Post {
+  margin-bottom: 10px;
+}
