@@ -46,3 +46,9 @@
 #Post {
   margin-bottom: 10px;
 }
+
+.container{
+  min-height: 100vh;
+  max-height: 100vh;
+  overflow-y: auto;
+}
